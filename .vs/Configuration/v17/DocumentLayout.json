@@ -1,0 +1,91 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ananeema\\source\\repos\\Configuration\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|c:\\users\\ananeema\\source\\repos\\configuration\\consoleconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|solutionrelative:consoleconfig\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|c:\\users\\ananeema\\source\\repos\\configuration\\consoleconfig\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|solutionrelative:consoleconfig\\config.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|c:\\users\\ananeema\\source\\repos\\configuration\\consoleconfig\\consoleconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{4FB2F40F-E3CD-483E-B865-AED39B34F225}|ConsoleConfig\\ConsoleConfig.csproj|solutionrelative:consoleconfig\\consoleconfig.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{75188d03-9892-4ae2-abf1-207126247ce5}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "config.json",
+              "DocumentMoniker": "C:\\Users\\ananeema\\source\\repos\\Configuration\\ConsoleConfig\\config.json",
+              "RelativeDocumentMoniker": "ConsoleConfig\\config.json",
+              "ToolTip": "C:\\Users\\ananeema\\source\\repos\\Configuration\\ConsoleConfig\\config.json",
+              "RelativeToolTip": "ConsoleConfig\\config.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-01-31T08:59:29.515Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ananeema\\source\\repos\\Configuration\\ConsoleConfig\\Program.cs",
+              "RelativeDocumentMoniker": "ConsoleConfig\\Program.cs",
+              "ToolTip": "C:\\Users\\ananeema\\source\\repos\\Configuration\\ConsoleConfig\\Program.cs",
+              "RelativeToolTip": "ConsoleConfig\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAB1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-01-31T08:57:33.222Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ConsoleConfig",
+              "DocumentMoniker": "C:\\Users\\ananeema\\Source\\Repos\\Configuration\\ConsoleConfig\\ConsoleConfig.csproj",
+              "RelativeDocumentMoniker": "ConsoleConfig\\ConsoleConfig.csproj",
+              "ToolTip": "C:\\Users\\ananeema\\Source\\Repos\\Configuration\\ConsoleConfig\\ConsoleConfig.csproj",
+              "RelativeToolTip": "ConsoleConfig\\ConsoleConfig.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-01-31T08:57:27.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

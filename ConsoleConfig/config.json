@@ -1,4 +1,7 @@
 {
-  "Greeting": "Hello",
-  "Environment": "QA"
+  "Greeting": {
+    "Message": "Hello",
+    "Color": "Blue"
+  },
+  "Environment": "DEV"
 }
