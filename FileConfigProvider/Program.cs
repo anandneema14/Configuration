@@ -10,14 +10,15 @@ IHostEnvironment env = builder.Environment;
 builder.Configuration
     .AddJsonFile("appsettings.json", optional: true, reloadOnChange: true)
     .AddJsonFile($"appsettings.{env.EnvironmentName}.json", optional: true, reloadOnChange: true);
-    
-    TransientFaultHandlingOptions options = new();
-    builder.Configuration.GetSection(nameof(TransientFaultHandlingOptions))
-        .Bind(options);
+
+//Below statement will bind the Enabled and AutoRetryDelay values to the configuration
+TransientFaultHandlingOptions options = new();
+builder.Configuration.GetSection(nameof(TransientFaultHandlingOptions))
+    .Bind(options);
         
-        Console.WriteLine($"TransientFaultHandlingOptions.Enabled: {options.Enabled}");
-        Console.WriteLine($"TransientFaultHandlingOptions.AutoRetryDelay: {options.AutoRetryDelay}");
+Console.WriteLine($"TransientFaultHandlingOptions.Enabled: {options.Enabled}");
+Console.WriteLine($"TransientFaultHandlingOptions.AutoRetryDelay: {options.AutoRetryDelay}");
         
-        using IHost host = builder.Build();
-        await host.RunAsync();
-        Console.ReadKey();
+using IHost host = builder.Build();
+await host.RunAsync();
+Console.ReadKey();
