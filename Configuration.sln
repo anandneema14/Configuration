@@ -8,6 +8,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "02. Configuration Providers
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FileConfigProvider", "FileConfigProvider\FileConfigProvider.csproj", "{0565026A-CE66-47D4-801C-6E01B8254756}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomConfigProvider", "CustomConfigProvider\CustomConfigProvider.csproj", "{484A2D1F-2EBD-47C6-9623-CDE15822B21B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -16,6 +18,7 @@ Global
 	GlobalSection(NestedProjects) = preSolution
 		{4FB2F40F-E3CD-483E-B865-AED39B34F225} = {BDB2CC5F-FAEB-4DFE-A5E7-AFD10E5EE5E0}
 		{0565026A-CE66-47D4-801C-6E01B8254756} = {DA9B043E-A2C0-4F8F-BBD0-D7474E1890F6}
+		{484A2D1F-2EBD-47C6-9623-CDE15822B21B} = {DA9B043E-A2C0-4F8F-BBD0-D7474E1890F6}
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{4FB2F40F-E3CD-483E-B865-AED39B34F225}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
@@ -26,5 +29,9 @@ Global
 		{0565026A-CE66-47D4-801C-6E01B8254756}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0565026A-CE66-47D4-801C-6E01B8254756}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0565026A-CE66-47D4-801C-6E01B8254756}.Release|Any CPU.Build.0 = Release|Any CPU
+		{484A2D1F-2EBD-47C6-9623-CDE15822B21B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{484A2D1F-2EBD-47C6-9623-CDE15822B21B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{484A2D1F-2EBD-47C6-9623-CDE15822B21B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{484A2D1F-2EBD-47C6-9623-CDE15822B21B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
